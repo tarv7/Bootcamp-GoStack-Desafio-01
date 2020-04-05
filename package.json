@@ -1,0 +1,16 @@
+{
+  "name": "desafio-01",
+  "version": "1.0.0",
+  "description": "Bootcamp GoStack Desafio 01",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": "https://github.com/tarv7/Bootcamp-GoStack-Desafio-01",
+  "author": "Thales Augusto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
